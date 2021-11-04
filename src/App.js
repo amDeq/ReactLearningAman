@@ -23,7 +23,7 @@ function App() {
   ];
   return (
     <div>
-      <h2>Let's get started!</h2>
+      <h2>Let's get started!!</h2>
       <p>This is visiable</p>
       <ExpenseItem
         title={expenses[0].title}
