@@ -12,8 +12,9 @@ function ExpenseItem(props) {
   // const year = props.date.getFullYear();
 
   const clickHandler = () => {
-    // console.log(title);
+    // console.log("Expense items");
     setTitle("Updated!!!");
+    console.log(title);
   };
   return (
     <>
